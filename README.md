@@ -10,6 +10,6 @@ Estrutura do Projeto
 
 . images/: Pasta para armazenar imagens das cidades;
 
-. scripts.js: (opcional) Arquivo para adicionar interatividade, como efeitos de transição.
+. scripts.js: Arquivo para adicionar interatividade, como efeitos de transição.
 
 
